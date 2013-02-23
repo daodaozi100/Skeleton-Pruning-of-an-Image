@@ -5,7 +5,7 @@ clear all;
 close all;
  
 % read the image file
-[im_original,map]=imread('img1.jpg');
+[im_original,map]=imread('1.inputImg.jpg');
  
 subplot(2,2,1)
 imshow(im_original)
